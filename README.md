@@ -1,2 +1,2 @@
 # Intro-to-Array
-Basic of array 
+Declaration of array and printing of array 
